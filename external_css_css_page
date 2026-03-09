@@ -1,23 +1,9 @@
 codes
 ##############################
 tut plan
-
-do a:
-
-up = 3. h1, 
-up = 3a. h2
-up = 3b. h3
-up = 1.p
-
-0, div
-
-2. body 
-
-should be good
 ==============================================
 
-
-
+/* Beginning of the page */
 
 body 
 {
@@ -65,7 +51,6 @@ p
   
 }
 
-
-
+/* End of the page */
 
 
