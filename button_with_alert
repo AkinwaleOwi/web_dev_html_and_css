@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>The button Element</h2>
+
+<h2>Goal:Wanted the keywords for conversations, can chatgpt pretty much anything and with enough oop experience can manipulate pretty much any code, but still. </h2>
+
+
+<button type="button" onclick="alert('Akinwale Owi duhh!')">Who is your favorite web developer?!?!</button>
+ 
+</body>
+</html>
