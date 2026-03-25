@@ -47,6 +47,8 @@
 
 <h2><strong>Tip:</strong> Use the transition-duration property to determine the speed of the "hover" effect:</h2>
 
+<h2 style="color: green;">Buttons change color on hover but don't do anything when clicked </h2>
+
 <h2 style="color: purple;"> Another big game this friday, who you picking?</h2>
 <button class="button LSU">LSU</button>
 <button class="button duke">Duke</button>
