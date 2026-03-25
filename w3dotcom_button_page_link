@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<style>
+.button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button1 {background-color: #04AA6D;} /* Green */
+.button2 {background-color: #008CBA;} /* Blue */
+</style>
+
+</head>
+
+<body>
+
+<h1>The button element - Styled with CSS</h1>
+<p>Change the background color of a button with the background-color property:</p>
+
+<p> These don't do anything,just an example color changing </p>
+
+<h2> Who do you have winning this friday?</h2>
+
+<button class="button button1">Notre Dame</button>
+<button class="button button2">Vanderbilt</button>
+
+</body>
+</html>
