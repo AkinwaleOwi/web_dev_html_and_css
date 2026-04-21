@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<title>Green Countdown Timer</title>
+
+<!-- Beginning of Css sheets we used -->
+<link rel="stylesheet" href="css_pure_timer.css">
+<!-- End of Css sheets we used -->   
+    
+</head>
+
+<body>
+   <h1> Welcome to the pure 1 minute timer by Akinwale Owi</h1>
+    <br> 
+    <p></p>
+    <h1> Code for it on https://github.com/AkinwaleOwi/web_dev_html_and_css/tree/main</h1>
+    <h1> A. Javascript: https://github.com/AkinwaleOwi/web_dev_html_and_css/blob/main/pure_timer_javascript </h1>
+    <h1> B. CSS: https://github.com/AkinwaleOwi/web_dev_html_and_css/blob/main/pure_timer_css</h1>
+    <h1> C. Html: </h1>
+    
+<div class="timer-container">
+  <div id="timer">01:00</div>
+  <button onclick="startTimer()">Start</button>
+</div>
+
+  <!--beginning of javascript script(s) we referenced-->
+    <script src="javascript_pure_timer.js"></script>
+  <!--end of javascript script(s) we referenced -->
+
+</body>
+
+    
+</html>
