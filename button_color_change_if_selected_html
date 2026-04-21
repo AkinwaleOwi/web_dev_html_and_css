@@ -2,33 +2,26 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Easy difficulty Cat Trivia Quiz #0 </title>
-  <link rel="stylesheet" href="easy_style.css">
+  <title>Button color change if and when it's selected </title>
+  <link rel="stylesheet" href="css_if_button_selected.css">
 </head>
     
 <body>
 
-  <div id="timer">Time: 3:00</div>
+  <h1>Welcome to the button color change if selected tutorial by Akinwale Owi</h1>  
+    <p></p>
+    
+  <h2>Code in: https://github.com/AkinwaleOwi/web_dev_html_and_css</h2>
+    
+    <h3>Javascript: https://github.com/AkinwaleOwi/web_dev_html_and_css</h3>
+    <h3>CSS: https://github.com/AkinwaleOwi/web_dev_html_and_css</h3>
+    <h3>Html: https://github.com/AkinwaleOwi/web_dev_html_and_css</h3>
 
-  <h1>Welcome to Web Cat Trivia by Greene Aeration!</h1>  
-  <h1>Easy difficulty quiz #0!!!</h1>
-
-  <div id="quiz"></div>
-
-  <div id="navButtons">
-    <button onclick="prevQuestion()">Previous</button>
-    <button onclick="nextQuestion()">Next</button>
-  </div>
-
-  <div id="submitContainer">
-    <button id = "submitBtn" onclick="submitQuiz()">Submit Quiz</button>
-  </div>
-
-  <div id="result"></div>
-  <button id="retryBtn" onclick="retryQuiz()" style="display:none;">Retry Quiz</button>
-  <div id="review"></div>
-
-  <script src="javascript_easy.js"></script>
+ <button id="trueBtn"> Greene </button>
+ <button id="falseBtn"> Aeration </button>
+    
+  <script src="javascript_if_button_selected.js"></script>
+    
 </body>
     
 </html>
