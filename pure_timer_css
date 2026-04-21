@@ -1,0 +1,45 @@
+
+  body 
+  {
+     margin: 0;
+    height: 100vh;
+    background-color: #111;
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+
+  .timer-container 
+  {
+   margin-top: 7vh; /* pushes it toward bottom */
+    
+  }
+
+  #timer 
+  {
+    font-size: 80px;
+    color: #00ff88;
+    font-weight: bold;
+    letter-spacing: 3px;
+  }
+
+  button 
+  {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    background-color: #00ff88;
+    color: #111;
+    cursor: pointer;
+  }
+
+  button:hover 
+  {
+    background-color: #00cc6a;
+  }
+
+h1
+{
+    color: #ffffff;
+}
