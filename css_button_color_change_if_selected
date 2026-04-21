@@ -1,0 +1,104 @@
+    body 
+    {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 20px;
+      background-color: #418FDE;
+    }
+
+    #timer 
+    {
+      position: absolute;
+      top: 20px;
+      right: 50%;
+      transform: translateX(50%);
+      font-size: 20px;
+      font-weight: bold;
+      color: #ffffff;
+    }
+    
+    .question 
+    {
+      margin: 20px 0;
+      color: #ffffff;
+      font-size: 26px;
+    }
+
+    img 
+    {
+      max-width: 300px;
+      height: auto;
+      margin-bottom: 10px;
+    }
+
+    button 
+    {
+      margin: 5px;
+      padding: 10px 30px;
+      cursor: pointer;
+    }
+
+    #trueBtn
+    {
+     background-color: #65ff00; 
+     color: #ffffff;
+    }
+
+    #trueBtn.selected
+    {
+        background-color: #007bff;
+        color: #000000;
+    }
+
+    #falseBtn
+    {
+      background-color: #BB133E;
+      color: #ffffff;
+    }
+
+    #falseBtn.selected
+    {
+        background-color: #007bff;
+        color: #000000;
+    }
+
+    #submitBtn
+    {
+        background-color: #154406;
+        color:#ffffff;
+    }    
+
+    #result 
+    {
+      font-size: 22px;
+      margin-top: 20px;
+      font-weight: bold;
+    }
+
+    #review 
+    {
+      margin-top: 20px;
+      text-align: left;
+      max-width: 600px;
+      margin-left: auto;
+      margin-right: auto;
+      color: #ffffff;
+    }
+
+    .wrong 
+    {
+      color: #ffffff;
+      margin-bottom: 15px;
+    }
+
+    .selected 
+    {
+      background-color: lightblue;
+    }
+
+    h1
+    {
+        color:#FFCD00;
+    }
+
+    
