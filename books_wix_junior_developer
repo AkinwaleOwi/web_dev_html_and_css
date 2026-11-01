@@ -1,0 +1,268 @@
+
+===================
+Yes. Actually, if I were a junior Wix developer in 2026, I would change the reading list quite significantly.
+
+I wouldn't throw away the original list, because books about JavaScript, design principles, UX and clean code are still valuable.
+
+But I'd shift my priorities.
+
+As a Wix developer, I wouldn't just want to know how to build websites. I'd want to become someone who can design, develop, customize, optimize and maintain professional websites for clients and businesses.
+
+I'd aim to become more than someone who knows how to use the Wix editor.
+
+My goal would be to become a well-rounded Wix Studio developer with strong UI/UX, frontend development, SEO and problem-solving skills.
+
+## 1. The books I'd prioritize as a Wix developer
+
+I'd organize them into five areas.
+
+### A. UI/UX and visual design — extremely important
+
+Bookshelf
+
+1. Refactoring UI
+
+My number-one design recommendation.
+
+Learn spacing, typography, color systems, visual hierarchy and professional-looking layouts.
+
+Why: Wix makes it relatively easy to assemble a website. Knowing how to make that website look professionally designed is what separates an average Wix builder from a good web designer.
+
+10 лучших книг о дизайне для дизайнера
+
+2. Don't Make Me Think
+
+Learn usability, navigation, information architecture and user behavior.
+
+Why: Your clients don't just need attractive websites. They need websites that convert visitors into customers.
+
+Non-Designer's Design Book by Robin P. Williams | Goodreads
+
+3. The Non-Designer's Design Book
+
+Learn contrast, repetition, alignment and proximity.
+
+Why: These principles are useful when designing everything from a simple business website to a sophisticated landing page.
+
+### B. HTML, CSS and JavaScript — your technical foundation
+
+Learning Web Design: A Beginner's Guide To Html, Css, Javascript, And Web Images Book By Jennifer Robbins,aaron Gustafson, ('tp') | Indigo
+
+4. Learning Web Design
+
+Understand HTML, CSS, JavaScript and responsive web design.
+
+Why: Even if Wix handles much of the underlying infrastructure, understanding what happens behind the editor helps you troubleshoot and customize websites.
+
+CSS in Depth, Second Edition - Keith J. Grant
+
+5. CSS in Depth
+
+Learn CSS layouts, positioning, responsive techniques and modern styling.
+
+Why: This is especially valuable when using Wix Studio's custom CSS capabilities.
+
+Eloquent JavaScript, 4th Edition by Marijn Haverbeke - Penguin Books Australia
+
+6. Eloquent JavaScript
+
+Learn JavaScript fundamentals, functions, objects, arrays, promises and asynchronous programming.
+
+Why: This is essential when you start using Velo, custom interactions, CMS queries and API integrations.
+
+### C. Wix-specific development and problem-solving
+
+Here I'd actually prioritize official documentation over buying lots of Wix-specific books.
+
+The platform changes frequently, and documentation is more likely to reflect the current APIs and workflows.
+
+I'd concentrate on:
+
+- Wix Studio Editor and responsive layouts.
+- Wix CMS and dynamic pages.
+- Velo development.
+- Frontend and backend JavaScript.
+- Wix APIs and third-party integrations.
+- GitHub and version control.
+
+One particularly important distinction for 2026: Wix is transitioning from its older Velo APIs toward the newer Wix JavaScript SDK. Existing Velo skills remain useful, but I'd learn the SDK for new development rather than treating Velo as the entire future of Wix development.
+
+Wix Docs
+
++1
+
+Useful official resources:
+
+- [Wix developer documentation](<https://dev.wix.com/docs/develop-websites?utm_source=chatgpt.com>)
+- [Wix APIs and JavaScript SDK](<https://dev.wix.com/docs/overview/platform-overview/about-wix-apis?utm_source=chatgpt.com>)
+- [Wix backend web modules](<https://dev.wix.com/docs/develop-websites/articles/coding-with-velo/backend-code/web-modules/about-web-modules?trk=public_post_comment-text&utm_source=chatgpt.com>)
+- [Wix Studio overview](<https://www.wix.com/studio?utm_source=chatgpt.com>)
+
+### D. Professional development and clean code
+
+Pragmatic Programmer, The, 2nd Edition by David Thomas, Hardcover, 9780135957059 | Buy online at The Nile
+
+7. The Pragmatic Programmer
+
+Learn professional development habits, debugging, automation and problem-solving.
+
+Why: You'll eventually encounter client requests that require more than dragging and dropping elements.
+
+A Philosophy of Software Design, 2nd Edition | eBay
+
+8. A Philosophy of Software Design
+
+Learn abstraction, modularity and managing complexity.
+
+Why: Useful when your Wix projects start involving larger CMS structures, reusable code and complicated integrations.
+
+### E. SEO, accessibility and website performance
+
+Inclusive Design Patterns - Coding Accessibility Into Web Design by Heydon Pickering | Goodreads
+
+9. Inclusive Design Patterns
+
+Learn accessible forms, navigation and interface patterns.
+
+Why: A professional website should work for as many people as possible.
+
+The Art of SEO 3e - Eric Enge, Stephan Spencer, Jessie C. Stricchiola
+
+10. The Art of SEO
+
+Learn technical SEO, keyword research, search intent and website optimization.
+
+Why: Many clients expect their Wix developer to understand more than website construction. They want a website that can be found on Google.
+
+## 2. What I'd learn specifically in Wix Studio
+
+I'd create a technical learning roadmap alongside the books.
+
+| Skill | What I'd aim to master |
+| --- | --- |
+| Wix Studio | Layouts, sections, grids, stacks and breakpoints |
+| Responsive design | Desktop, tablet and mobile optimization |
+| CMS | Collections, dynamic pages, references and datasets |
+| Velo | JavaScript, events and custom functionality |
+| Wix SDK | Modern API integration and development |
+| CSS | Custom styling, animations and advanced layouts |
+| SEO | Metadata, redirects, structured data and indexing |
+| Accessibility | Semantic structure, keyboard navigation and contrast |
+| Performance | Image optimization, loading speed and Core Web Vitals |
+| GitHub | Version control and managing code changes |
+
+These aren't arbitrary skills. Wix's own professional developer and designer certification criteria emphasize responsive design, UX/UI, accessibility, SEO, performance, backend logic, API integrations and secure development.
+
+Wix.com
+
++1
+
+## 3. My recommended 6-month reading and learning plan
+
+# Wix developer development plan
+
+1. Month 1 – Become a better designer
+   - Refactoring UI
+   - The Non-Designer's Design Book
+   Project: Design a professional website for a fictional local business from a blank Wix Studio canvas.
+2. Month 2 – Master Wix Studio
+   - Learning Web Design
+   - Wix Studio documentation
+   Project: Recreate a professional website design with desktop, tablet and mobile layouts.
+3. Month 3 – Learn JavaScript and CSS
+   - Eloquent JavaScript
+   - CSS in Depth
+   Project: Build custom interactions, animations and responsive components.
+4. Month 4 – Become a Wix developer
+   - The Pragmatic Programmer
+   - Wix Velo and JavaScript SDK documentation
+   Project: Build a dynamic website using CMS, custom forms and API integrations.
+5. Month 5 – Understand users and search engines
+   - Don't Make Me Think
+   - The Art of SEO
+   Project: Optimize a website for accessibility, usability, SEO and performance.
+6. Month 6 – Think like a professional developer
+   - A Philosophy of Software Design
+   - Inclusive Design Patterns
+   Project: Build a complete client-style website with reusable components, dynamic content and custom functionality.
+
+## 4. What I'd want in my portfolio
+
+By the end of those six months, I'd want at least four substantial projects:
+
+Harmony Studio: Free Agency Website Template by sabbir hossien — Framer Marketplace
+
+1. Agency website
+
+Typography, layouts, animations and responsive design.
+
+Build a Complete Site for Your Restaurant with Wix
+
+2. Restaurant website
+
+CMS, bookings, forms and local SEO.
+
+Interactive Map View for Property Listings by Sulton handaya for Pelorous on Dribbble
+
+3. Real estate website
+
+Dynamic pages, property collections and search filters.
+
+Web App Analytics - Dashboard UI for SaaS by Kevin Rach for Maximaze Studio on Dribbble
+
+4. Custom web application
+
+JavaScript, backend functionality and API integrations.
+
+## 5. My final recommendation
+
+If I were a junior Wix developer, this would be my priority:
+
+| Priority | Area | Importance |
+| --- | --- | --- |
+| 1 | UI/UX and visual design | Very high |
+| 2 | Wix Studio mastery | Very high |
+| 3 | HTML and CSS | Very high |
+| 4 | JavaScript and Wix development | Very high |
+| 5 | SEO and accessibility | High |
+| 6 | CMS and dynamic websites | High |
+| 7 | GitHub and software engineering | High |
+| 8 | AI-assisted development | High |
+
+One thing I'd avoid is becoming dependent on Wix's drag-and-drop tools or AI-generated code. Use them to work faster, but understand what you're building and how to troubleshoot it.
+
+The real objective is to become a web developer who happens to specialize in Wix, rather than someone who only knows how to operate Wix.
+
+That distinction will matter as your projects become more complex and you start working with bigger clients.
+
+## One thing I'd like to establish before taking this further:
+
+Are you primarily working with:
+
+1\. Which Wix platform do you use?
+
+Wix Studio Wix Studio
+
+Classic Wix Editor
+
+Both
+
+2\. Where do you want to become strongest?
+
+UI/UX and visual web design
+
+Technical development and coding
+
+Both equally Both equally
+
+3\. How would you describe your current level?
+
+Beginner – still learning the basics
+
+Junior – comfortable building websites Junior – comfortable building websites
+
+Intermediate – comfortable with custom code
+
+ Submit answers
+
+I'd use those answers to build a much more focused reading list, rather than having you spend time reading books that won't make a meaningful difference to your day-to-day work.
