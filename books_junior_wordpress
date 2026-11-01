@@ -1,0 +1,362 @@
+If I were a junior WordPress developer in November 2026, I'd make a different reading list again.
+
+Compared with Wix, WordPress requires a broader understanding of how websites work behind the scenes, particularly if you want to move beyond page builders and become a professional WordPress developer.
+
+I'd want to become comfortable with:
+
+- WordPress development and customization.
+- Elementor, Gutenberg and the block editor.
+- HTML, CSS, JavaScript and PHP.
+- Custom themes and plugins.
+- UI/UX and responsive design.
+- WordPress CMS, custom post types and dynamic content.
+- Website security, performance and SEO.
+
+One important distinction: I'd learn both the visual website-building side of WordPress and its underlying development architecture.
+
+WordPress is continuing to invest in block themes, Site Editing and collaboration. I'd therefore prioritize Gutenberg and modern block development rather than learning only traditional PHP themes.
+
+WordPress.org
+
++1
+
+# 1. The books I'd read
+
+## A. WordPress and web development foundations
+
+Learning Web Design: A Beginner's Guide To Html, Css, Javascript, And Web Images Book By Jennifer Robbins,aaron Gustafson, ('tp') | Indigo
+
+1. Learning Web Design — Jennifer Niederst Robbins
+
+Essential foundation- HTML structure and semantics.
+- CSS layouts and responsive design.
+- JavaScript fundamentals.
+- How browsers render websites.
+
+Why: WordPress doesn't replace the need to understand web development. This gives you the foundation to customize almost anything.
+
+Eloquent JavaScript, 4th Edition by Marijn Haverbeke - Penguin Books Australia
+
+2. Eloquent JavaScript — Marijn Haverbeke
+
+- JavaScript fundamentals.
+- Functions, objects and arrays.
+- Asynchronous programming.
+- Working with APIs.
+
+Why: Useful for custom WordPress functionality, interactive websites, Gutenberg blocks and modern frontend development.
+
+PHP & MySQL: Server-side Web Development 1st Edition India | Ubuy
+
+3. PHP & MySQL: Server-side Web Development — Jon Duckett
+
+- Learn PHP syntax.
+- Understand server-side programming.
+- Work with databases.
+- Understand how dynamic websites operate.
+
+Why: PHP is fundamental to traditional WordPress themes, plugins and much of WordPress core. I'd make this a priority rather than treating PHP as optional.
+
+CSS in Depth, Second Edition - Keith J. Grant
+
+4. CSS in Depth — Keith J. Grant
+
+- Flexbox and Grid.
+- Responsive layouts.
+- CSS architecture.
+- Modern styling techniques.
+
+Why: You'll frequently need to customize themes, page builders and blocks beyond their default styling.
+
+## B. WordPress design and UI/UX
+
+These would be especially important if I were building websites for clients.
+
+Learnings from Refactoring UI. If you are a designer and do anything… | by Jatin Gupta | Medium
+
+5. Refactoring UI
+
+Why: Learn how to make WordPress websites look professionally designed instead of looking like generic theme installations.
+
+Focus on typography, spacing, colors, buttons, cards and visual hierarchy.
+
+Don't make me think - Libreria Santos Lectores
+
+6. Don't Make Me Think
+
+Why: Learn to create websites that are easy to navigate and understand.
+
+Particularly useful when building business websites, ecommerce stores and landing pages.
+
+Mastering the Art of User-Centric Design: Insights from ‘The Design of Everyday Things’ by Don Norman | by Saish Joshi | Medium
+
+7. The Design of Everyday Things
+
+Why: Understand human-centered design, usability, feedback and intuitive interactions.
+
+It helps you think beyond how a website looks and consider how people actually use it.
+
+## C. Professional WordPress development
+
+Professional WordPress: Design and Development : Williams, Brad, Damstra, David, Stern, Hal: Amazon.in: Books
+
+8. Professional WordPress: Design and Development
+
+- Understand WordPress architecture.
+- Learn theme and plugin concepts.
+- Explore hooks, filters and customization.
+- Understand how WordPress handles content.
+
+Why: It's a useful WordPress-specific reference. However, I'd check the edition and treat older examples as historical where APIs have changed.
+
+Pragmatic Programmer, The, 2nd Edition by David Thomas, Hardcover, 9780135957059 | Buy online at The Nile
+
+9. The Pragmatic Programmer
+
+- Debugging.
+- Problem-solving.
+- Automation.
+- Writing maintainable code.
+
+Why: It teaches you to think like a software developer rather than someone who simply installs plugins and themes.
+
+Clean Code (2nd ed.) by Robert C. Martin (ebook)
+
+10. Clean Code
+
+- Code organization.
+- Meaningful naming.
+- Readability.
+- Maintainability.
+
+Why: Important when developing custom plugins, themes and functionality that other developers may need to maintain.
+
+## D. SEO, accessibility and website optimization
+
+The Art of SEO 3e - Eric Enge, Stephan Spencer, Jessie C. Stricchiola
+
+11. The Art of SEO
+
+- Technical SEO.
+- Keyword research.
+- Search intent.
+- Website structure and indexing.
+
+Why: WordPress clients often expect their developers to understand SEO, not just website construction.
+
+Inclusive Design Patterns - Coding Accessibility Into Web Design by Heydon Pickering | Goodreads
+
+12. Inclusive Design Patterns
+
+- Accessible navigation.
+- Semantic HTML.
+- Accessible forms.
+- Inclusive interface design.
+
+Why: Accessibility is an important part of professional WordPress theme and plugin development.
+
+# 2. What I'd learn specifically for WordPress in 2026
+
+This is where I'd spend a lot of my practical learning time.
+
+WordPress has two major development directions worth understanding:
+
+A Beginner's Guide to the WordPress Block Editor (with Video) - LearnWoo
+
+Modern WordPress: Gutenberg and block development
+
+- Block Editor.
+- Full Site Editing.
+- Block themes.
+- `theme.json`.
+- Custom Gutenberg blocks.
+- React and the WordPress JavaScript packages.
+
+Genesis Framework vs Elementor: Which Is Better in 2025?
+
+WordPress with page builders
+
+- Elementor.
+- Elementor Theme Builder.
+- Dynamic content.
+- Advanced Custom Fields (ACF).
+- Custom post types.
+- Custom CSS and JavaScript.
+
+My advice: learn Gutenberg and Elementor, but don't become dependent on either.
+
+If you understand WordPress itself, you can move between different themes, builders and development approaches.
+
+## 3. The official resources I'd bookmark
+
+These are particularly valuable because WordPress evolves faster than printed books.
+
+| Resource | What I'd learn |
+| --- | --- |
+| [WordPress Theme Handbook](<https://developer.wordpress.org/themes/?utm_source=chatgpt.com>) | Theme development |
+| [Block Editor Handbook](<https://developer.wordpress.org/block-editor/getting-started/?utm_source=chatgpt.com>) | Gutenberg and custom blocks |
+| [Learn WordPress – Developer Courses](<https://learn.wordpress.org/course-category/developing-with-wordpress/?new-theme=1&utm_source=chatgpt.com>) | Structured learning |
+| [WordPress development resources](<https://developer.wordpress.org/advanced-administration/resources/?utm_source=chatgpt.com>) | PHP, CSS and JavaScript |
+| [WordPress Coding Standards](<https://developer.wordpress.org/coding-standards/wordpress-coding-standards/?utm_source=chatgpt.com>) | Professional coding practices |
+| [Intermediate Theme Developer Course](<https://learn.wordpress.org/course/intermediate-theme-developer/?utm_source=chatgpt.com>) | Custom block themes |
+
+I'd particularly recommend the official beginner and intermediate developer courses. They provide structured learning rather than making you piece together random YouTube tutorials.
+
+Learn WordPress
+
++1
+
+# 4. My six-month WordPress developer roadmap
+
+If I were starting as a junior WordPress developer, this is how I'd organize my learning.
+
+# 6-month development roadmap
+
+1. Month 1 – HTML, CSS and design
+   Read:
+   - Learning Web Design
+   - Refactoring UI
+   Practice:
+   - Build responsive layouts.
+   - Recreate website designs.
+   - Learn typography and spacing.
+   Deliverable: A professional business website.
+2. Month 2 – WordPress fundamentals
+   Read:
+   - Professional WordPress (as a reference)
+   - Don't Make Me Think
+   Practice:
+   - Install WordPress locally.
+   - Understand themes and plugins.
+   - Learn the dashboard, pages, posts and menus.
+   - Explore Gutenberg and Elementor.
+   Deliverable: A complete business website.
+3. Month 3 – PHP and JavaScript
+   Read:
+   - PHP & MySQL
+   - Eloquent JavaScript
+   Practice:
+   - Write custom functions.
+   - Understand hooks and filters.
+   - Work with PHP templates.
+   - Build interactive functionality.
+   Deliverable: A custom WordPress feature.
+4. Month 4 – CMS and dynamic development
+   Practice:
+   - Custom post types.
+   - ACF and custom fields.
+   - Dynamic templates.
+   - WordPress REST API.
+   - Custom queries.
+   Deliverable: A real estate or directory website.
+5. Month 5 – Advanced WordPress
+   Practice:
+   - Custom block themes.
+   - `theme.json`.
+   - Gutenberg block development.
+   - Elementor Theme Builder.
+   - Plugin development.
+   Deliverable: A custom theme or plugin.
+6. Month 6 – Professional standards
+   Read:
+   - The Pragmatic Programmer
+   - Inclusive Design Patterns
+   Practice:
+   - Website security.
+   - Performance optimization.
+   - SEO.
+   - Accessibility testing.
+   - Git and GitHub.
+   Deliverable: A polished, production-style portfolio project.
+
+# 5. Four portfolio projects I'd build
+
+These projects would demonstrate different WordPress skills rather than four websites that all look the same.
+
+Nexora Creative Digital Marketing WordPress Elementor Template by Template Orbit on Dribbble
+
+1. Agency website
+
+Responsive design, Elementor, custom layouts and SEO.
+
+Real Estate Platform by Victoria Grinevich on Dribbble
+
+2. Real estate website
+
+ACF, custom post types, dynamic pages and filters.
+
+10+ Best WordPress Block Themes for WooCommerce in 2026 — Speckyboy
+
+3. Ecommerce website
+
+WooCommerce, product pages, checkout and payments.
+
+Kayleen | Blog & Magazine WordPress Theme by Rivax Studio on Dribbble
+
+4. Editorial website
+
+Gutenberg, block themes, custom templates and content management.
+
+# 6. The five books I'd buy first
+
+If I had a limited budget, these would be my purchases:
+
+| Book | What it gives me |
+| --- | --- |
+| Learning Web Design | Web development foundations |
+| PHP & MySQL | WordPress backend knowledge |
+| Eloquent JavaScript | Programming skills |
+| Refactoring UI | Professional visual design |
+| The Pragmatic Programmer | Software engineering mindset |
+
+I'd supplement these with free WordPress documentation rather than spending money on outdated WordPress-specific books.
+
+# 7. My final advice: What kind of WordPress developer should you become?
+
+I see three useful directions:
+
+| Direction | Skills to prioritize |
+| --- | --- |
+| WordPress website designer | Elementor, Gutenberg, UI/UX, responsive design, SEO |
+| WordPress frontend developer | HTML, CSS, JavaScript, Gutenberg, React |
+| WordPress full-stack developer | PHP, MySQL, APIs, plugins, themes, JavaScript |
+
+Personally, I'd aim to become a WordPress developer with strong frontend and design skills, then gradually develop backend expertise.
+
+That combination gives you the ability to build attractive websites, customize functionality and solve problems that page builders alone cannot solve.
+
+And remember: WordPress is not just Elementor. Understanding the platform underneath the visual builder is what will help you grow professionally.
+
+## One question to help me tailor the learning path
+
+1. Which WordPress tools do you currently use?
+
+Elementor Elementor
+
+Gutenberg / Block Editor
+
+Divi
+
+Multiple page builders
+
+Mostly custom WordPress development
+
+2. What kind of developer do you want to become?
+
+WordPress designer
+
+Frontend developer
+
+Full-stack WordPress developer
+
+Both design and development Strong in both design and development
+
+3. What's your current experience?
+
+Beginner – learning WordPress
+
+Junior – I can build WordPress websites Junior – I can build WordPress websites
+
+Intermediate – I can customize themes and write code
+
+ Build my WordPress learning plan
