@@ -1,0 +1,308 @@
+prompt: if you were a junior web developer in 2026, which books on web Dev and design would you read and why
+
+==========================================================================
+If I were starting out as a junior web developer in November 2026, I would approach reading a little differently than developers did five or ten years ago.
+
+I wouldn't just read books to learn how to code. I'd want to become a developer who can:
+
+1. Build modern, responsive websites without constantly relying on tutorials.
+2. Understand JavaScript deeply enough to solve problems independently.
+3. Create beautiful, intuitive user interfaces.
+4. Write clean, maintainable code that other developers enjoy working with.
+5. Understand how users think and interact with websites.
+6. Work confidently with modern frameworks, AI tools, and development workflows.
+
+I'd build my reading list around those six goals.
+
+Here are the books I'd personally invest in.
+
+# My web development and design reading list for 2026
+
+## 1. The foundations: HTML, CSS and JavaScript
+
+Learning Web Design: A Beginner's Guide To Html, Css, Javascript, And Web Images Book By Jennifer Robbins,aaron Gustafson, ('tp') | Indigo
+
+1. Learning Web Design — Jennifer Niederst Robbins
+
+My first choice for beginners- Learn HTML, CSS, JavaScript and web fundamentals.
+- Understand how websites are structured and rendered.
+- Develop a strong foundation before jumping into frameworks.
+
+Why I'd read it: It's comprehensive, beginner-friendly and updated for modern web standards. The sixth edition was published in July 2025.
+
+Learning Web Design
+
+Eloquent JavaScript, 4th Edition by Marijn Haverbeke - Penguin Books Australia
+
+2. Eloquent JavaScript — Marijn Haverbeke
+
+- Learn programming fundamentals.
+- Understand functions, objects, arrays, closures and asynchronous programming.
+- Improve logical thinking and problem-solving.
+
+Why I'd read it: JavaScript is the backbone of frontend development. I would want to understand the language rather than simply memorize React patterns.
+
+CSS in Depth, Second Edition - Keith J. Grant
+
+3. CSS in Depth, Second Edition — Keith J. Grant
+
+- Understand the CSS cascade and specificity.
+- Master layouts, positioning, Flexbox and Grid.
+- Write more maintainable CSS.
+- Understand modern CSS capabilities.
+
+Why I'd read it: Plenty of developers can make something look good by copying CSS. I would want to understand why the CSS works. The second edition was published in 2024.
+
+Manning
+
+You Don't Know JS: Get Started
+
+4. You Don't Know JS Yet — Kyle Simpson
+
+- Understand scope and closures.
+- Learn how JavaScript handles asynchronous operations.
+- Understand objects, prototypes and types.
+
+Why I'd read it: This is where I'd go once I had some JavaScript experience and wanted to move beyond beginner-level programming.
+
+## 2. Become a better designer, not just a developer
+
+This is an area I would take particularly seriously.
+
+A junior developer who understands design has an advantage. You can interpret a Figma design, make sensible design decisions, and build interfaces that actually feel polished.
+
+Hierarchy is clarity. Colourful takeaways from the « Refactoring UI » book
+
+5. Refactoring UI — Adam Wathan and Steve Schoger
+
+One of my strongest recommendations- Learn visual hierarchy.
+- Understand spacing, typography and color.
+- Improve buttons, forms, cards and layouts.
+- Learn how to make interfaces look professional.
+
+Why I'd read it: It teaches you how to make ordinary interfaces look considerably better without needing to become a professional graphic designer.
+
+10 лучших книг о дизайне для дизайнера
+
+6. Don't Make Me Think, Revisited — Steve Krug
+
+- Understand website usability.
+- Learn how people navigate websites.
+- Reduce unnecessary complexity.
+- Design intuitive navigation and interactions.
+
+Why I'd read it: A website isn't successful just because it looks beautiful. People need to understand how to use it.
+
+Mastering the Art of User-Centric Design: Insights from ‘The Design of Everyday Things’ by Don Norman | by Saish Joshi | Medium
+
+7. The Design of Everyday Things — Don Norman
+
+- Understand human-centered design.
+- Learn about affordances and feedback.
+- Understand how people interact with everyday objects and digital interfaces.
+
+Why I'd read it: It changes how you think about design. You'll start asking why an interface works instead of simply asking whether it looks attractive.
+
+Non-Designer's Design Book by Robin P. Williams | Goodreads
+
+8. The Non-Designer's Design Book — Robin Williams
+
+- Learn contrast.
+- Understand repetition.
+- Learn alignment and proximity.
+- Improve your visual composition.
+
+Why I'd read it: These four principles can dramatically improve the quality of your websites.
+
+## 3. Become a better software engineer
+
+These books help you transition from someone who can build websites to someone who understands software engineering.
+
+Pragmatic Programmer, The, 2nd Edition by David Thomas, Hardcover, 9780135957059 | Buy online at The Nile
+
+9. The Pragmatic Programmer — Andrew Hunt and David Thomas
+
+- Write better code.
+- Develop problem-solving habits.
+- Understand automation and debugging.
+- Become more independent as a developer.
+
+Why I'd read it: It teaches you how to think and work like a professional software developer.
+
+Clean Code (2nd ed.) by Robert C. Martin (ebook)
+
+10. Clean Code — Robert C. Martin
+
+- Learn meaningful naming.
+- Understand functions and code organization.
+- Improve readability and maintainability.
+
+Why I'd read it: Working developers don't just write code that works. They write code that other people can understand and maintain.
+
+Note: Treat its examples as principles to evaluate critically, not unquestionable rules.
+
+A Philosophy of Software Design, 2nd Edition | eBay
+
+11. A Philosophy of Software Design — John Ousterhout
+
+- Understand complexity.
+- Design better abstractions.
+- Reduce dependencies.
+- Organize code into understandable components.
+
+Why I'd read it: One of the most important skills as you progress is learning how to manage complexity.
+
+## 4. Modern frontend development
+
+Once I'd become comfortable with HTML, CSS and JavaScript, I'd start exploring modern frontend architecture.
+
+React Quickly, Second Edition - Morten Barklund and Azat Mardan
+
+12. React Up & Running — React development
+
+- Understand component-based architecture.
+- Learn how React applications are structured.
+- Understand reusable UI components and state.
+
+Why I'd read it: React remains an important frontend ecosystem to understand. I'd pair a book with the current official React documentation rather than rely on a book alone.
+
+CSS Secrets by Lea Verou (ebook)
+
+13. CSS Secrets — Lea Verou
+
+- Learn clever CSS techniques.
+- Understand visual effects and patterns.
+- Develop more creative solutions.
+
+Why I'd read it: It encourages you to explore what CSS can do instead of reaching for JavaScript or a library for everything.
+
+Some techniques are older, so I'd verify current browser support.
+
+## 5. Accessibility and professional web standards
+
+This is something I wouldn't leave until the end of my career.
+
+Inclusive Design Patterns - Coding Accessibility Into Web Design by Heydon Pickering | Goodreads
+
+14. Inclusive Design Patterns — Heydon Pickering
+
+- Build accessible navigation.
+- Understand accessible forms.
+- Design interfaces that work for different users.
+- Improve semantic HTML.
+
+Why I'd read it: Accessibility shouldn't be an afterthought. It should be part of how you build interfaces.
+
+Designing with Web Standards by Jeffrey Zeldman (2003, Paperback) 9780735712010| eBay
+
+15. Designing with Web Standards — Jeffrey Zeldman
+
+- Understand standards-based development.
+- Learn why semantic markup matters.
+- Appreciate browser compatibility and progressive enhancement.
+
+Why I'd read it: It helps establish the mindset of building websites for the open web rather than for one browser or device.
+
+# My actual reading order
+
+I wouldn't buy all 15 books and try to read them simultaneously.
+
+I'd organize them into a 12-month learning plan.
+
+# 12-month reading roadmap
+
+A practical sequence for someone entering web development.
+
+1. Months 1–2: Build your foundation
+   - Learning Web Design
+   - Eloquent JavaScript
+   Goal: Build websites independently using HTML, CSS and JavaScript.
+2. Months 3–4: Improve your frontend skills
+   - CSS in Depth
+   - You Don't Know JS Yet
+   Goal: Write better CSS and understand JavaScript more deeply.
+3. Months 5–6: Develop your design eye
+   - Refactoring UI
+   - Don't Make Me Think
+   - The Non-Designer's Design Book
+   Goal: Build interfaces that look professional and are easy to use.
+4. Months 7–8: Learn professional development
+   - The Pragmatic Programmer
+   - Clean Code
+   Goal: Write maintainable code and develop good engineering habits.
+5. Months 9–10: Learn modern frontend architecture
+   - A current React learning resource
+   - A Philosophy of Software Design
+   Goal: Build larger applications using reusable components and sound architecture.
+6. Months 11–12: Become a more complete developer
+   - Inclusive Design Patterns
+   - The Design of Everyday Things
+   Goal: Understand accessibility, usability and human-centered design.
+
+# Five books I'd buy first
+
+If my budget were limited, these would be my first five purchases:
+
+Learning Web Design, Jennifer Robbins | 9781098137687 | Boeken | bol
+
+1. Learning Web Design
+
+For technical foundations.
+
+Essential
+
+Eloquent JavaScript, 4th Edition Marijn Haverbeke
+
+2\. Eloquent JavaScript
+
+For programming ability.
+
+📚 I wrote an article about my favorite UI design books. I’m originally a designer with a strong foc... - Krisztina Szerovay | Rattibha
+
+3\. Refactoring UI
+
+For visual design skills.
+
+‎Don't Make Me Think, Revisited by Steve Krug on Apple Books
+
+4\. Don't Make Me Think
+
+For user experience and usability.
+
+The Pragmatic Programmer: Your Journey To Mastery, 20th Anniversary Edition (2nd Edition) | Daraz.com.bd
+
+5\. The Pragmatic Programmer
+
+For professional development habits.
+
+# One important thing about being a developer in 2026
+
+I'd combine books with three other learning resources:
+
+- MDN Web Docs: For current HTML, CSS and JavaScript documentation.
+- web.dev: For performance, accessibility and modern web practices.
+- Figma: For learning how professional interfaces are designed and translated into working websites.
+
+Books teach you principles. Documentation teaches you current implementation. Projects teach you how to put everything together.
+
+And I would make one rule for myself: For every book I read, I'd build at least one real project using what I learned.
+
+For example:
+
+- After Refactoring UI, redesign an existing website.
+- After Eloquent JavaScript, build an interactive application.
+- After Don't Make Me Think, audit a website's usability.
+- After CSS in Depth, build a responsive landing page from scratch.
+
+That way, you're not just becoming someone who has read 15 books. You're becoming someone who can actually build things.
+
+## One question that would help me refine this list
+
+Are you currently:
+
+- A. A complete beginner learning HTML, CSS and JavaScript.
+- B. A junior developer who already builds websites but wants to improve.
+- C. A frontend developer learning React, TypeScript and modern frameworks.
+- D. A developer who wants to become equally strong in web development and UI/UX design.
+
+I'd slightly change the reading priorities depending on your answer.
